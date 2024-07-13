@@ -2,6 +2,7 @@
 Conducted big data analytics on New York City's Yellow taxi data set of the year 2017 (5.17 GB) with Big Data tools such as Hadoop, HBase, Sqoop, MapReduce, AWS EMR, AWS RDS (MySQL)
 
 The data set for the assignment can be downloaded from these links:
+
 https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-01.csv
 
 https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-02.csv
